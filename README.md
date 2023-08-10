@@ -27,11 +27,11 @@ object programacionConObjetos {
 
 ### Presentacion Personal
 
-Me llamo ...
+Me llamo ... Alan Castelli
 
-Me gusta ...
+Me gusta ... dormir
 
-Me dedico a / Trabajo de ...
+Me dedico a / Trabajo de ... Analista de sistemas trainee
 
 Les dejo una imagen mía 
 
