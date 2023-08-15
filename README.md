@@ -10,8 +10,11 @@ Curso la Tecnicatura en programacion. Me interesa mucho poder vivir de esto asi 
 
 
 Les comparto una foto mia
-![foto](https://github.com/obj1-unahur-2023s2/presentacionpersonal-alaancastelli/assets/99371942/a458fed5-2864-4609-a3e5-8ddeaf2f845d)
 
 (ese dia estaba vestido asi para una entrevista por videollamada. De camisa y saco y abajo un Short. Asi y todo es la foto del CV )
+
+![foto](https://github.com/obj1-unahur-2023s2/presentacionpersonal-alaancastelli/assets/99371942/a458fed5-2864-4609-a3e5-8ddeaf2f845d)
+
+
 
 
